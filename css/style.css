@@ -436,6 +436,11 @@ body {
 
 .team-item img {
     border-radius: 8px 60px 0 0;
+    height: 320px; /* Adjust height as needed */
+    width:  320px;
+    object-fit: fit;
+    object-position: center;
+    
 }
 
 .team-item .team-social {
